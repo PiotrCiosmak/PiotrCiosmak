@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Ciosmak</h1>
 <h3 align="center">A third-year student at the Cracow University of Technology</h3>
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 🗣 I speak **Polish and English**
 
