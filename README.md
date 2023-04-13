@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Ciosmak</h1>
-<h3 align="center">A third-year student at the Cracow University of Technology</h3>
+<h3 align="center">A third-year student at the Cracow University of Technology <br>
+Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
+
 
 - 🌱 I’m currently learning **Java and Spring**
 
