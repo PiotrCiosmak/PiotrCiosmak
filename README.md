@@ -3,7 +3,7 @@
 Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
 
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently learning **C++ on Raspberry Pi 5**
 
 - 🗣 I speak **Polish and English**
 
