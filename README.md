@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Ciosmak</h1>
 <h3 align="center">I have completed my engineering degree at the Cracow University of Technology. <br>
 <h3 align="center">Now I'm pursuing my master's degree at the Warsaw University of Technologyy. <br>
-
-Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
+<h3 align="center">Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
 
 
 - 🌱 I’m currently doing project in **C++ on Raspberry Pi 5**
