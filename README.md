@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr Ciosmak</h1>
-<h3 align="center">"I have completed my engineering degree at the Cracow University of Technology and am now pursuing my master's degree at the Warsaw University of Technology. <br>
+<h3 align="center">I have completed my engineering degree at the Cracow University of Technology and am now pursuing my master's degree at the Warsaw University of Technology. <br>
 Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
 
 
