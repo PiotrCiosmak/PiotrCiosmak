@@ -4,7 +4,7 @@
 <h3 align="center">Currenty working as C++ Developer in <a href="https://spectre.solutions/">SpecreSolutions</a></h3>
 
 
-- 🌱 I’m currently doing project in **C++ on Raspberry Pi 5**
+- 🔭 I’m currently working on [Height Vision Pi](https://github.com/PiotrCiosmak/Height_Vision_Pi)
 
 - 🗣 I speak **Polish and English**
 
